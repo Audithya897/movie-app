@@ -1,0 +1,22 @@
+.container{
+    background-color: #111827;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px 40px;
+    width: 300px;
+    gap: 10px;
+    border-radius: 10px;
+
+
+}
+
+.container img{
+    width: 200px;
+    height: 300px;
+    border: 1px solid white;
+    border-radius: 10px;
+
+}
